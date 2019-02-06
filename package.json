@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "react": "^16.6.3",
+    "react": "^16.8.1",
     "react-dom": "^16.6.3",
     "react-modal": "^3.6.1"
   },
